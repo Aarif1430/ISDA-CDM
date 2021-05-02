@@ -80,5 +80,24 @@ Use analytical model whenever possible. Simulation does not require that many si
   - Random inputs lead to random outputs
   - Random outputs are estimates of the true characteristics of a model Example: Queuing systems
 
+# Static Simulation
+  - Time plays no role
+  - Represents a system at a particular point of time
+  - Represents the system at a particular point in time
+  - Example: Monte Carlo Method, calculating value of Pi
+
+# Dynamic Simulation
+  - Represents a system as it evolves over time
+  - Exemple: Simulation of a Bank from 9:00 A.M. to 4:00 P.M.
+
+# Discrete Simulation
+  - The state variable(s) changes only at discrete points in time.
+  - Example: Queuing system of a bank
+
+# Contnous Simulation
+  - The state variable(s) changes continuously 
+  - Example: the head of water behind a dam.
+
+
 
   
