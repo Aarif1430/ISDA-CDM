@@ -102,6 +102,12 @@ Use analytical model whenever possible. Simulation does not require that many si
   - M/M/1 Queue Simulator: https://github.com/thanujann/Queue-Simulator
   - Poissons distribution (Queuing theory): http://web.tecnico.ulisboa.pt/mcasquilho/acad/or/queue/SBakerQueuingI.pdf
   - Random number generation using inverse transform techinique: https://math.stackexchange.com/questions/28004/random-exponential-like-distribution
+  - Markov chains and queueing theory: https://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Constantin.pdf
+  - Stationary distribution and performance measure of M/M/1 Queue: https://people.maths.bris.ac.uk/~maajg/teaching/iqn/queues.pdf
+  - Discrete event simulation: https://www.cs.bu.edu/faculty/matta/Teaching/cs655-papers/shankar-des.pdf
+  - Multi server system with T-limited service https://core.ac.uk/download/pdf/144443021.pdf
+  - Linear Congruential Generator: https://www.value-at-risk.net/linear-congruential-generators/
+  - Simulation of Single-Server Tandem Queueing Model: http://emis.impa.br/EMIS/journals/HOA/IJSA/Volume10_4/381.pdf
 
 
   
