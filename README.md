@@ -98,6 +98,10 @@ Use analytical model whenever possible. Simulation does not require that many si
   - The state variable(s) changes continuously 
   - Example: the head of water behind a dam.
 
+# Important links
+  - M/M/1 Queue Simulator: https://github.com/thanujann/Queue-Simulator
+  - Poissons distribution (Queuing theory): http://web.tecnico.ulisboa.pt/mcasquilho/acad/or/queue/SBakerQueuingI.pdf
+  - Random number generation using inverse transform techinique: https://math.stackexchange.com/questions/28004/random-exponential-like-distribution
 
 
   
