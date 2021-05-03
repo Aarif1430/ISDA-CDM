@@ -99,6 +99,7 @@ Use analytical model whenever possible. Simulation does not require that many si
   - Example: the head of water behind a dam.
 
 # Important links
+  - Simulation and Modelling: http://home.ubalt.edu/ntsbarsh/simulation/sim.htm#rwis
   - M/M/1 Queue Simulator: https://github.com/thanujann/Queue-Simulator
   - Poissons distribution (Queuing theory): http://web.tecnico.ulisboa.pt/mcasquilho/acad/or/queue/SBakerQueuingI.pdf
   - Random number generation using inverse transform techinique: https://math.stackexchange.com/questions/28004/random-exponential-like-distribution
@@ -108,6 +109,7 @@ Use analytical model whenever possible. Simulation does not require that many si
   - Multi server system with T-limited service https://core.ac.uk/download/pdf/144443021.pdf
   - Linear Congruential Generator: https://www.value-at-risk.net/linear-congruential-generators/
   - Simulation of Single-Server Tandem Queueing Model: http://emis.impa.br/EMIS/journals/HOA/IJSA/Volume10_4/381.pdf
-
+  - Renewal Process (Probability Theory): https://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Nebres.pdf
+  - State diagram to transition matrix: https://www.probabilitycourse.com/chapter11/11_2_2_state_transition_matrix_and_diagram.php
 
   
