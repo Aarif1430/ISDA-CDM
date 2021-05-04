@@ -113,4 +113,5 @@ Use analytical model whenever possible. Simulation does not require that many si
   - State diagram to transition matrix: https://www.probabilitycourse.com/chapter11/11_2_2_state_transition_matrix_and_diagram.php
   - Markove chain problems: https://www.probabilitycourse.com/chapter11/11_2_7_solved_probs.php
   - Matlab markov chain: https://www.mathworks.com/help/econ/dtmc.classify.html
+  - Exponential Distribution, Renewal process: https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
   
