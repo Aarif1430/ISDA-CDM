@@ -115,3 +115,5 @@ Use analytical model whenever possible. Simulation does not require that many si
   - Matlab markov chain: https://www.mathworks.com/help/econ/dtmc.classify.html
   - Exponential Distribution, Renewal process: https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
   
+# Mathematic online softwares
+  - LU Decomposition, pivoting, linear algebra: https://atozmath.com/MatrixEv.aspx?q=pivots&q1=2%2c1%2c-2%3b3%2c2%2c2%3b5%2c4%2c3%60pivots%60&dm=D&dp=8&do=1#PrevPart
